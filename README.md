@@ -64,6 +64,6 @@ Grace Anyango
 
 Feel free to contribute, suggest improvements, or use this project for educational or personal purposes.
 
-### Demo
+### Demo/App
 
 [demo](http://localhost:8501/)
