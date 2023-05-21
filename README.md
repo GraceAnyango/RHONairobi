@@ -1,5 +1,7 @@
 # RHONairobi
 
+https://showmax.akamaized.net/i/d7dc0357-e8fb-495a-b648-b952763f7154/format=webp/q=70/1600x
+
 ## Real Housewives of Nairobi
 
 ### Overview
@@ -61,5 +63,7 @@ Enhance the user interface with additional features, such as filtering or sortin
 Grace Anyango
 
 Feel free to contribute, suggest improvements, or use this project for educational or personal purposes.
+
 ### Demo
+
 [demo](http://localhost:8501/)
