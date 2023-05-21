@@ -1,6 +1,6 @@
 # RHONairobi
 
-https://showmax.akamaized.net/i/d7dc0357-e8fb-495a-b648-b952763f7154/format=webp/q=70/1600x
+![image](https://github.com/GraceAnyango/RHONairobi/assets/110466244/09718cbe-3089-4886-b456-705ccd623661)
 
 ## Real Housewives of Nairobi
 
